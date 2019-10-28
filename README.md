@@ -1,2 +1,2 @@
 # GeneralAPI
-General API
+Sample API
