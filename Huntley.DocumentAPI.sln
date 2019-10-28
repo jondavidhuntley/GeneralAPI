@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.584
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiGroup.Taa.DocumentAPI", "SiGroup.Taa.DocumentAPI.csproj", "{3D8724BB-707D-4009-A11E-1323D1F730B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralAPI", "GeneralAPI.csproj", "{3D8724BB-707D-4009-A11E-1323D1F730B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
